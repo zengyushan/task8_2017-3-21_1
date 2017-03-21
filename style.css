@@ -479,12 +479,14 @@ html, body {
     padding-bottom: .25rem;
 }
 
+.home-other-link-div {
+    width: 10%;
+}
+
 .home-other-link {
     /*border: solid;*/
     display: inline-block;
     float: left;
-    /*width: 83.32%;*/
-    width: .86rem;
     font-size: .12rem;
     color: #999999;
 
