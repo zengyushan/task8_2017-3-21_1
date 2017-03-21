@@ -127,7 +127,7 @@ html, body {
 
 .vocation-every {
     border: 1px solid #eeeded;
-    width: 32.4%;
+    width: 32.2%;
     background-color: #ffffff;
     margin-right: 0.13rem;
 
@@ -171,7 +171,7 @@ html, body {
 
 .vocation-every-intro {
     display: block;
-    width: 2.85rem;
+    width: 2.6rem;
     font-size: .11rem;
     padding-top: .07rem;
     padding-left: 1.15rem;
@@ -258,10 +258,10 @@ html, body {
 }
 
 .vocation-base-learn {
-    /*border: solid;*/
+    /* border: solid; */
     height: .3rem;
     line-height: .3rem;
-    font-size: .092rem;
+    font-size: .084rem;
     padding-left: .08rem;
     color: #a9a9a9;
 }
